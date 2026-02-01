@@ -1,0 +1,7 @@
+{
+  "name": "FloraGuard AI: Plant Doctor",
+  "description": "An intelligent plant disease detection and agronomist chatbot that helps you identify vegetable leaf diseases and provides expert treatment and prevention advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
